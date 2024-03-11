@@ -1,0 +1,105 @@
+.App {
+    width: 428px;
+    height: 926px;
+    position: relative;
+    background: linear-gradient(0deg, #B1FFB4 0%, #5fac61 100%);
+    border-radius: 30px;
+    overflow: hidden
+}
+
+.Menu{
+        width: 80%; 
+        height: 80%;
+        margin-left: auto;
+        margin-right: auto; 
+}
+
+.ComeAr {
+    left: 102px;
+    top: 19px;
+    position: absolute;
+    color: #4C4C4C;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 500;
+    line-height: 30px;
+    word-wrap: break-word
+}
+
+.Rectangle1 {
+    /* width: 284px;
+    height: 67px; */
+    left: 115px;
+    top: 19px;
+    position: absolute;
+    background: rgba(217, 217, 217, 0.01);
+    border-radius: 20px;
+    border: 1px #E1FFE0 solid
+}
+
+.Entrar {
+    left: 115px;
+    top: 19px;
+    position: absolute;
+    color: #E1FFE0;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 500;
+    line-height: 30px;
+    word-wrap: break-word
+}
+
+.SuaLogoAqui {
+    width: 300px;
+    height: 300px;
+    left: 64px;
+    top: 134px;
+    position: absolute
+}
+
+.WireframeCell {
+    width: 347px;
+    height: 29px;
+    left: 44px;
+    top: 0px;
+    position: absolute
+}
+
+.Rectangle2 {
+    width: 189px;
+    height: 29px;
+    left: 75px;
+    top: 0px;
+    position: absolute;
+    background: black;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px
+}
+
+.i00 {
+    left: 0px;
+    top: 2px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 500;
+    line-height: 24px;
+    word-wrap: break-word
+}
+
+.Image4 {
+    width: 20px;
+    height: 20px;
+    left: 292px;
+    top: 4px;
+    position: absolute
+}
+
+.Image5 {
+    width: 20px;
+    height: 20px;
+    left: 327px;
+    top: 4px;
+    position: absolute
+}

@@ -1,0 +1,175 @@
+.Section1 {
+  width: 1441px;
+  height: 1025px;
+  background: #404040
+}
+
+.LoginDesktop {
+  width: 1440px;
+  height: 1024px;
+  left: -2px;
+  top: 2px;
+  position: absolute;
+  background: linear-gradient(180deg, #FFD9B0 0%, #E1A96F 100%)
+}
+
+.BoxLogin {
+  width: 519px;
+  height: 813px;
+  left: 449px;
+  top: 89px;
+  position: absolute
+}
+
+.BgBoxLogin {
+  width: 519px;
+  height: 675px;
+  left: 0px;
+  top: 138px;
+  position: absolute;
+  background: #715038;
+  border-radius: 20px
+}
+
+.InputEntrar {
+  width: 377px;
+  height: 58px;
+  left: 71px;
+  top: 657px;
+  position: absolute
+}
+
+.InputBackground {
+  width: 377px;
+  height: 58px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #F7EAD9;
+  border-radius: 20px
+}
+
+.Entrar {
+  left: 164px;
+  top: 11px;
+  position: absolute;
+  color: #434343;
+  font-size: 24px;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 36px;
+  word-wrap: break-word
+}
+
+.EsqueciASenha {
+  left: 281px;
+  top: 594px;
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 500;
+  text-decoration: underline;
+  line-height: 30px;
+  word-wrap: break-word
+}
+
+.NOTemConta {
+  left: 104px;
+  top: 734px;
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 30px;
+  word-wrap: break-word
+}
+
+.RegistreSeAqui {
+  left: 270px;
+  top: 734px;
+  position: absolute;
+  color: #72BC87;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 500;
+  text-decoration: underline;
+  line-height: 30px;
+  word-wrap: break-word
+}
+
+.InputSenha {
+  width: 377px;
+  height: 58px;
+  left: 71px;
+  top: 525px;
+  position: absolute
+}
+
+.Senha {
+  left: 22px;
+  top: 11px;
+  position: absolute;
+  color: #7F7C7C;
+  font-size: 24px;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 36px;
+  word-wrap: break-word
+}
+
+.InputLogin {
+  width: 377px;
+  height: 58px;
+  left: 71px;
+  top: 448px;
+  position: absolute
+}
+
+.EMail {
+  left: 22px;
+  top: 11px;
+  position: absolute;
+  color: #7F7C7C;
+  font-size: 24px;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 36px;
+  word-wrap: break-word
+}
+
+.ImgLog {
+  width: 262px;
+  height: 262px;
+  left: 129px;
+  top: 0px;
+  position: absolute
+}
+
+.Ellipse1 {
+  width: 262px;
+  height: 262px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #715038;
+  border-radius: 9999px
+}
+
+.Image1 {
+  width: 246px;
+  height: 246px;
+  left: 8px;
+  top: 8px;
+  position: absolute;
+  border-radius: 123px
+}
+
+.Image2 {
+  width: 423px;
+  height: 193px;
+  left: 497px;
+  top: 319px;
+  position: absolute
+}
