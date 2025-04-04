@@ -1,48 +1,24 @@
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="css/style.css">
-    <title>Document</title>
-    <!-- manifest.json -->
-    <link rel="manifest" href="manifest.json">
-    
-    <!-- Meta tags para PWA -->
-    <meta name="theme-color" content="#000000">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    
-    <!-- Ícones -->
-    <link rel="icon" href="icons/icon-192x192.png">
-    <link rel="apple-touch-icon" href="icons/icon-192x192.png">
+    <title>Meu PWA</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="LoginDesktop">
-        <div class="BoxLogin">
-        <div class="BgBoxLogin"></div>
-        <div class="InputEntrar" >
-            <div class="InputBackground"></div>
-            <div class="Entrar">Entrar</div>
-        </div>
-        <div class="EsqueciASenha">Esqueci a senha</div>
-        <div class="NOTemConta" >Não tem conta?</div>
-        <div class="RegistreSeAqui">Registre-se aqui</div>
-        <div class="InputSenha" >
-            <div class="InputBackground" ></div>
-            <div class="Senha">Senha</div>
-        </div>
-        <div class="InputLogin">
-            <div class="InputBackground" ></div>
-            <div class="EMail">E-mail</div>
-        </div>
-        <div class="ImgLog" >
-            <div class="Ellipse1" ></div>
-            <img class="Image1" src="images/image 1.png" />
-        </div>
-        </div>
-        <img class="Image2"src="images/image 2.png" />
-    </div>
+    <header>
+        <h1>Meu Aplicativo PWA</h1>
+        <div id="status">Carregando...</div>
+        <div id="offlineMessage" style="display:none;color:red;">Você está offline</div>
+        <button id="installButton" style="display:none;">Instalar App</button>
+    </header>
+    
+    <main id="content">
+        <!-- Conteúdo será carregado dinamicamente -->
+    </main>
+
+    <script src="script.js"></script>
 </body>
 </html>
